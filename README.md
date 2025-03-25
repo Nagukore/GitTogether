@@ -13,10 +13,9 @@ This project contains a Python script for performing Exploratory Data Analysis (
  -Saves the statistical summary as a new CSV file (statistics.csv)  
 
 Requirements
-Make sure you have Python installed along with the required libraries:
-
-pip install pandas matplotlib seaborn
-Usage
+Make sure you have Python installed along with the required libraries:  
+pandas, matplotlib, seaborn
+Usage:  
 Place your dataset file as data.csv in the project directory.
 
 Run the script:
@@ -25,13 +24,10 @@ python eda_script.py
 The script will generate visualizations and save statistical summaries to statistics.csv.
 
 Output
-Visualizations:
-
-Histograms of numeric columns
-
-Correlation heatmap
-
-Pairplot of all features
+-Visualizations:  
+-Histograms of numeric columns.  
+-Correlation heatmap.  
+-Pairplot of all features.  
 
 Statistics file:
 
