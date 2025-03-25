@@ -4,7 +4,8 @@ Exploratory Data Analysis (EDA) Script
 This project contains a Python script for performing Exploratory Data Analysis (EDA) on a dataset stored in a CSV file. It uses Pandas, Matplotlib, and Seaborn to generate statistical summaries and visualizations to help understand the dataset.
 
 # Features
- *Loads a CSV file into a Pandas DataFrame
+ *Loads a CSV file into a Pandas DataFrame  
+ 
  *Displays basic statistics (mean, min, max, standard deviation, etc.)
  *Prints the first few rows for an overview of the dataset
  *Generates histograms to visualize data distribution
