@@ -12,9 +12,9 @@ This project contains a Python script for performing Exploratory Data Analysis (
  -Generates a pairplot to explore pairwise feature distributions  
  -Saves the statistical summary as a new CSV file (statistics.csv)  
 
-Requirements
+Requirements  
 Make sure you have Python installed along with the required libraries:  
-pandas, matplotlib, seaborn
+pandas, matplotlib, seaborn  
 Usage:  
 Place your dataset file as data.csv in the project directory.
 
