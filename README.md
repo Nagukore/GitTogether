@@ -33,8 +33,8 @@ Pairplot of all features.
 statistics.csv containing summary statistics of the dataset
 
 # Team members:
-Nagesh  
 Bhargav  
 Madhumitha  
+Nagesh  
 Naveen singh Divya singh  
 
